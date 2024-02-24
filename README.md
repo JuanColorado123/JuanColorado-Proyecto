@@ -18,13 +18,13 @@ Este es un sitio web diseñado para ayudarte a mejorar tu inglés desde la comod
 
 ### Angular
 
-![Logo de Angular](https://cdn.icon-icons.com/icons2/2248/PNG/512/angular_logo_icon_136499.png)
+<img src="assets/img-3.png" alt="Logo de Angular" width="200">
 
 Angular es un framework de desarrollo de aplicaciones web desarrollado y mantenido por Google. Se utiliza para construir aplicaciones de una sola página (SPA) y aplicaciones web dinámicas. Algunas de las características clave de Angular incluyen enlace de datos bidireccional, inyección de dependencias, enrutamiento y manipulación del DOM. Work-Journey utiliza Angular para proporcionar una experiencia fluida y receptiva para los usuarios.
 
 ### SQL Server
 
-![Logo de SQL Server](https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png)
+<img src="assets/img-2.png" alt="Logo de SQL Server" width="200">
 
 SQL Server es un sistema de gestión de bases de datos relacional desarrollado por Microsoft. Se utiliza para almacenar y gestionar la información de los usuarios y cursos en Work-Journey. SQL Server ofrece una amplia gama de características, incluyendo soporte para transacciones ACID, escalabilidad y seguridad avanzada.
 
