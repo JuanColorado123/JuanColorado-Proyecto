@@ -34,7 +34,7 @@ SQL Server es un sistema de gestión de bases de datos relacional desarrollado p
 
 Para la gestión de datos, implementamos un CRUD básico utilizando Mysql. Esto nos permite realizar operaciones de creación, lectura, actualización y eliminación de datos en nuestra base de datos de manera eficiente.
 
-## Spring Boot
+[![Logo de Spring Framework](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png)](https://spring.io/projects/spring-boot)
 es un framework de desarrollo de aplicaciones Java que facilita la creación de aplicaciones Java basadas en Spring con poco esfuerzo y configuración. Proporciona un conjunto de herramientas y convenciones que simplifican el desarrollo de aplicaciones, lo que permite a los desarrolladores centrarse en la lógica de negocio sin preocuparse por la configuración tediosa.
 
 Work-Journey utiliza Spring Boot para construir su backend, proporcionando una sólida arquitectura para la gestión de usuarios, autenticación y autorización. Algunas de las características clave de Spring Boot incluyen:
