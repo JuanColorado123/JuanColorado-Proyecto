@@ -26,7 +26,7 @@ Angular es un framework de desarrollo de aplicaciones web desarrollado y manteni
 
 Angular es un framework de desarrollo de aplicaciones web desarrollado y mantenido por Google. Se utiliza para construir aplicaciones de una sola página (SPA) y aplicaciones web dinámicas. Algunas de las características clave de Angular incluyen enlace de datos bidireccional, inyección de dependencias, enrutamiento y manipulación del DOM. Work-Journey utiliza Angular para proporcionar una experiencia fluida y receptiva para los usuarios.
 
-[![Logo de MySQL](https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-logo.png)](https://www.mysql.com/)
+[![Logo de MySQL](https://cdn.freebiesupply.com/logos/thumbs/2x/mysql-logo.png)](https://www.mysql.com/){: style="width: 200px"}
 
 SQL Server es un sistema de gestión de bases de datos relacional desarrollado por Microsoft. Se utiliza para almacenar y gestionar la información de los usuarios y cursos en Work-Journey. SQL Server ofrece una amplia gama de características, incluyendo soporte para transacciones ACID, escalabilidad y seguridad avanzada.
 
