@@ -18,7 +18,9 @@ Este es un sitio web diseñado para ayudarte a mejorar tu inglés desde la comod
 
 ### Angular
 
-(https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png)](https://angular.io/)
+[](https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png)](https://angular.io/)
+
+Angular es un framework de desarrollo de aplicaciones web desarrollado y mantenido por Google. Se utiliza para construir aplicaciones de una sola página (SPA) y aplicaciones web dinámicas. Algunas de las características clave de Angular incluyen enlace de datos bidireccional, inyección de dependencias, enrutamiento y manipulación del DOM. Work-Journey utiliza Angular para proporcionar una experiencia fluida y receptiva para los usuarios.
 
 
 
